@@ -1,7 +1,7 @@
 # hello_world
 
 A new Flutter application from the first activity of displaying a simple Hello World.
-This activity came from the video titled: Your First Flutter App Ep 1 - Creating a New Flutter Project from Scratch
+This activity came from the youtube video titled: Your First Flutter App Ep 1 - Creating a New Flutter Project from Scratch
 https://www.youtube.com/watch?v=DIn-4nRfkUg&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm&index=14
 
 ## Getting Started
